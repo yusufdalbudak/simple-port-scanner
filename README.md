@@ -6,21 +6,22 @@ Description
 This script allows you to perform a basic network port scan on a specified IP address within a given port range. It utilizes Python's socket module to check for open ports and reports their status.
 Features
 
-    Scans a range of ports on a specified IP address
-    Detects open and closed ports
-    Easy to use and modify
+Scans a range of ports on a specified IP address
+Detects open and closed ports
+Easy to use and modify
 
-    Usage
+Usage
+Clone the repository:
 
-    Clone the repository:
-  $ git clone https://github.com/yusufdalbudak/simple-port-scanner.git
-  $ cd python-port-scanner
+    
+     $ git clone https://github.com/yusufdalbudak/simple-port-scanner.git
+     $ cd python-port-scanner
   
 Update the ip variable in the script with the target IP address.
 
 Run the script:
 
-$ python port_scanner.py
+    $ python port_scanner.py
 
 Example:
 $ python port_scanner.py
