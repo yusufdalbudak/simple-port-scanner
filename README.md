@@ -24,7 +24,8 @@ Run the script:
     $ python port_scanner.py
 
 Example:
-$ python port_scanner.py
+   $ python port_scanner.py
+   
 1 : closed
 2 : closed
 3 : closed
